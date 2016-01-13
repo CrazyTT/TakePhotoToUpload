@@ -2,9 +2,6 @@ package com.chenliuliu.takephoto.utils;
 
 
 public class Constants {
-    public static final String APP_ID = "wx602c36584680e858";//微信
-    public static final String APP_APPID = "fdff3bd52e93a63fea6bfb812fdc31e5";
-    public static final String APP_APPSECRET = "FOYFhGtTcqFCekByHUoSkbygNjEII98LcSNsZTgexh1";
     public static final String Local_DATE = "localDate";
 
     public static final class Shrae {
